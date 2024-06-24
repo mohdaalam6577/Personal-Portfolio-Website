@@ -204,6 +204,7 @@ ul li a:hover {
     color: var(--White-color);
     font-size: 22px;
     border-radius: 10px;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, .8);
     transition: all 0.3s ease;
 }
 
